@@ -46,7 +46,7 @@ void minimizeDFA(edge b[], int N, string &NODE, string &CHANGE, string &endnode,
             }
             sta.erase();
         } // k
-    } // i
+    }
 
     cout << endl;
 
